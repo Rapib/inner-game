@@ -1,0 +1,26 @@
+{
+  "name": "inner-client",
+  "version": "1.0.0",
+  "description": "Unmask the hidden killer or escape in this thrilling killer vs. survivors multiplayer game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "game",
+    "multiplayer",
+    "inner",
+    "killer vs survivors",
+    "socket"
+  ],
+  "author": "Rapib",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.5",
+    "nodemon": "^2.0.22",
+    "prompt-sync": "^4.2.0",
+    "socket.io-client": "^4.6.1"
+  }
+}
