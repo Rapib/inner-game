@@ -1,0 +1,19 @@
+{
+  "name": "inner-server",
+  "version": "1.0.0",
+  "description": "Unmask the hidden killer or escape in this thrilling killer vs. survivors multiplayer game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": ["game", "multiplayer", "inner", "killer vs survivors", "socket" ],
+  "author": "Rapib",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1"
+  }
+}
