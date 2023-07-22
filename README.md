@@ -32,10 +32,10 @@ The game allows players to navigate options using the up and down arrow keys and
 
 ## Implemented game functions
 
-[x] Moving to various locations - Explore different areas.
-[x] Looking around/searching for an exit - Scour the surroundings for an escape route.
-[x] Eliminating a player - Engage in player elimination.
-[x] Voting - Cast votes during the game.
+- [x] Moving to various locations - Explore different areas.
+- [x] Looking around/searching for an exit - Scour the surroundings for an escape route.
+- [x] Eliminating a player - Engage in player elimination.
+- [x] Voting - Cast votes during the game.
 
 ## Screenshot
 
