@@ -28,8 +28,17 @@ The game offers two main paths to victory: the players can either successfully d
 
 The game allows players to navigate options using the up and down arrow keys and confirm their choices by pressing the enter key.
 
-*The game is currently playable in the terminal. More features will be added as I continue working on it.*
+*The game is currently playable in the terminal.*
 
-## Development Status
+## Implemented game functions
 
-This game is a work in progress and is not yet finished. Please note that there may be bugs, and additional features will be implemented in the future.
+[x] Moving to various locations - Explore different areas.
+[x] Looking around/searching for an exit - Scour the surroundings for an escape route.
+[x] Eliminating a player - Engage in player elimination.
+[x] Voting - Cast votes during the game.
+
+## Screenshot
+
+![gameplay](https://github.com/Rapib/inner-game/assets/120158188/aa51bc31-f38b-4cfa-88c4-bce87f6cdaa2)
+
+*This game is a work in progress and is not yet finished. Please note that there may be bugs, and additional features will be implemented in the future.
